@@ -5,12 +5,17 @@ Counter app in Jetpack compose
 Its a counter app 
 
 // Get idea about layout in JC
+
 Row
+
 Column
+
 Box
 
 // Components 
+
 Text 
+
 Button
 
 // 
